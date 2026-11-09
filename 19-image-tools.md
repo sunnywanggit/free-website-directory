@@ -51,6 +51,7 @@
 -   [Polarr](https://photoeditor.polarr.co/) - Multi-Tool
 -   [Polotno Studio](https://studio.polotno.com/) - Simple Editor
 -   [RedKetchup](https://redketchup.io/) - Multi-Tool
+-   [StyleSVG](https://stylesvg.com/) - Free browser-based SVG editing, optimization and conversion without an account; one watermarked AI vector preview per day, with paid clean AI exports.
 -   [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
 -   [Stet](https://stet.io/) - Photoshop Alt
 -   [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
@@ -597,6 +598,7 @@
 -   [Knvrt](https://www.knvrt.one/)
 -   [Raw Pics](https://raw.pics.io/)
 -   [RedKetchup](https://redketchup.io/) - Multi-Tool
+-   [StyleSVG](https://stylesvg.com/) - Free browser-based SVG editing, optimization and conversion without an account; one watermarked AI vector preview per day, with paid clean AI exports.
 
 #### Image Resizing
 
